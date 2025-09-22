@@ -11,7 +11,7 @@ const projects = [
     title: "Conversational Bot for Customer Support Gen AI based",
     description:
       "End-to-end conversational chatbot platform using AWS Lex and Amazon Connect. Features intuitive admin dashboard for bot management, JWT-based authentication, and comprehensive monitoring with Grafana dashboards.",
-    image: "/customerbotale.png",
+    image: "./customerbotale.png",
     technologies: [
       "AWS Lex",
       "Lambda",
@@ -40,7 +40,7 @@ const projects = [
     title: "Customer support Chatbot with analytics dashboard",
     description:
       "Lightweight customer support chatbot using Node.js, AWS Lambda, and React with Tailwind CSS. Designed for fast deployment and easy integration, providing instant customer query resolution via web interface.",
-    image: "/barclays.png", 
+    image: "./barclays.png", 
     technologies: [
       "React.js",
       "Tailwind CSS",
@@ -64,7 +64,7 @@ const projects = [
     title: "Data-Driven Company Website",
     description:
       "A marketing and application platform for a data-driven AI/ML company built using React, Framer Motion, and Tailwind CSS. Supports job applications, blog CMS, animated sections, and responsive design.",
-        image: "/zecdata.png", 
+        image: "./zecdata.png", 
     technologies: [
       "React.js",
       "Framer Motion",
@@ -84,7 +84,7 @@ const projects = [
     title: "Inventory Management System",
     description:
       "Comprehensive inventory management platform with modular React.js components, Fastify backend with role-based access control, and efficient GraphQL APIs. Deployed on AWS ECS with complete monitoring setup.",
-    image: "/Inventory.png",
+    image: "./Inventory.png",
     technologies: [
       "Vue.js",
       "Node.js",  
@@ -109,7 +109,7 @@ const projects = [
     title: "Logistics Store Application",
     description:
       "Next.js-based logistics platform with server-side rendering and optimized routing. Features scalable REST APIs, responsive Chakra UI components, and comprehensive unit testing with Jest.",
-    image: "/mobile-progressive-web-app-interface.jpg",
+    image: "./mobile-progressive-web-app-interface.jpg",
     technologies: ["Next.js", "Node.js", "MongoDB", "REST APIs", "Docker", "Jest", "Chakra UI", "GCP"],
     liveUrl: "#",
     githubUrl: "#",
